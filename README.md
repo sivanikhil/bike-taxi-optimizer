@@ -139,7 +139,3 @@ http://localhost:5173
 * Pilot profitability prediction
 * Multi-city analytics dashboard
 * Integration with real-time maps APIs
-
-🌐 Live Demo
-You can view the live simulation environment here:
-http://172.27.22.58:5173/
